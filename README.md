@@ -9,7 +9,7 @@
 const dev = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP],
-  tools: [React, Redux, Node, Styled-Components, Docker, Digital Ocean],
+  tools: [React, Redux, Node, Docker, Digital Ocean, AWS],
 }
 ```
 
