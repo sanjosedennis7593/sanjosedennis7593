@@ -9,11 +9,24 @@
 const dev = {
   pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "HTML", "CSS", "PHP"],
-  tools: ["React", "NextJS", "Redux Toolkit",
-          "GraphQL", "Styled Components", "Tailwind",
-          "ExpressJS", "Docker", "Digital Ocean",
-          "AWS", "Heroku", "Git", "Redis",
-          "Vite", "Webpack"],
+  tools: ["React",
+    "NextJS",
+    "Redux",
+    "GraphQL",
+    "Tailwind",
+    "ExpressJS",
+    "Docker",
+    "Digital Ocean",
+    "AWS",
+    "Heroku",
+    "Git",
+    "Redis",
+    "Vite",
+    "Webpack",
+    "OpenAI",
+    "MySQL",
+    "MongoDB"
+  ]
 }
 ```
 
