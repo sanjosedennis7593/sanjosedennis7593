@@ -9,7 +9,11 @@
 const dev = {
   pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "HTML", "CSS", "PHP"],
+  database: ["MySQL", "MongoDB", "Postgresql", "Redis", "Supabase"],
   tools: ["React",
+    "React Native",
+    "Wordpress",
+    "Vue",
     "NextJS",
     "Redux",
     "GraphQL",
@@ -19,13 +23,11 @@ const dev = {
     "Digital Ocean",
     "AWS",
     "Heroku",
+    "Netlify",
     "Git",
-    "Redis",
     "Vite",
     "Webpack",
-    "OpenAI",
-    "MySQL",
-    "MongoDB"
+    "OpenAI"
   ]
 }
 ```
